@@ -1,0 +1,11 @@
+Relation
+    One To Many
+       - One Buyer Many Flight
+       - One Customer Many Flight
+       - One Customer Many Ticket
+
+    One To One
+       - One Customer One Destination
+       - One Customer One Source
+       - One Destination One Source
+       -
